@@ -24,7 +24,7 @@ Download and import module:
 * Change user password - **set-BNTUserPassword**;
 
 ## Contact
-Author: Dmitry Anisimov
-GitHub: https://github.com/made-with-care
-EMail: mail@anisimov.dk
-HomePage: https://www.anisimov.dk   
+Author: Dmitry Anisimov</br>
+GitHub: https://github.com/made-with-care</br>
+EMail: mail@anisimov.dk</br>
+HomePage: https://www.anisimov.dk
